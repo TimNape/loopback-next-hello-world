@@ -1,0 +1,15 @@
+{
+  "name": "loopback-next-hello-world",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
